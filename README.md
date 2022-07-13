@@ -6,6 +6,7 @@ More information coming here too.
 --
 
 The emoji list is/was for personal use/convenience. A newer and more up-to-date version can likely be gotten from CLDR.
+
 --
 
 The following is a list of spelling errors that were searched in major online English-Irish and Irish-English dictionaries.
