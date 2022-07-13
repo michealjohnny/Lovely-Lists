@@ -1,9 +1,13 @@
 # Lovely Lists Repo
+
 Noun, verb and lemma lists are being updated bi-annually, more information is available from www.corpas.ie.
 More information coming here too.
+
 --
+
 The emoji list is/was for personal use/convenience. A newer and more up-to-date version can likely be gotten from CLDR.
 --
+
 The following is a list of spelling errors that were searched in major online English-Irish and Irish-English dictionaries.
 This list of spelling errors is not currently being maintained.
 
